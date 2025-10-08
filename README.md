@@ -101,7 +101,7 @@ These filters dynamically update all visuals to reflect selected segments.
 
 ## 🖼️ 5. Screenshot / Demo
 **Dashboard Preview:**  
-![Amazon Sales Dashboard Preview](https://github.com/your-username/your-repo-name/blob/main/Screenshot%202025-10-08%20181741.png)
+![Amazon Sales Dashboard Preview](https://github.com/AniketBordekar07/Amazon-Sales-Dashboard/blob/main/Snapshot%20of%20Amazon%20Dashboard.png)
 
 ---
 
