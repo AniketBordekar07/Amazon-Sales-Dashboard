@@ -105,13 +105,6 @@ These filters dynamically update all visuals to reflect selected segments.
 
 ---
 
-## 📁 6. Files Included
-- `Amazon_Combined_Data.xlsx` – Source dataset used in Power BI  
-- `Amazon_Sales_Analysis.pbix` – Power BI dashboard file  
-- `README.md` – Project documentation file  
-
----
-
 ## 🏁 Summary
 The **Amazon Sales Analysis Dashboard** serves as a powerful data visualization tool for understanding revenue patterns, identifying best-selling products, and analyzing customer engagement through reviews.  
 Its clean layout, interactive visuals, and dynamic filters make it ideal for **business insights**, **performance reporting**, and **sales optimization**.
